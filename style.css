@@ -1,0 +1,21 @@
+body
+{
+	background-color: pink;
+	color: green;
+}
+
+body button
+{
+  background-color: #e84cff;
+	color: darkgreen;
+}
+
+body input
+{
+	background-color: lightgreen;
+}
+
+.save
+{
+	background-color: green;
+}
